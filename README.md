@@ -14,3 +14,9 @@ Esta é uma linha de código em PHP.
 ~~~html
 Esta é uma linha de código em HTML.
 ~~~
+
+ Esta é uma linha que contém um ˋcódigoˋ.
+
+ˋˋˋ
+Esta é uma linha de código
+ ˋˋˋ
