@@ -1,22 +1,7 @@
 # DevOps 
+2
 * O que é:question:
-
+3
+​[o que é](github.com/OdairPanizziJunior/DevOps/blob/main/Concepts.md)
+4
  [Main Page](https://github.com/OdairPanizziJunior)
-
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
-
- Esta é uma linha que contém um ˋcódigoˋ.
-
-ˋˋˋ
-Esta é uma linha de código
- ˋˋˋ
