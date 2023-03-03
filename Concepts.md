@@ -7,10 +7,7 @@ DESENVOLVIMENTO | OPERAÇÕES
 :---------: | :------:
 Dev | Ops
 
-DEV=desenvolvimento
-OPS=operações
-
-è basicamente tornar um o time de desenvlvimento e operações
+Em outras palavras, é basicamente formar um o time de Desenvlvimento e Operações
 
 O que é o tradicional?
 O pessoal desenvolve o produto, "coda" o produto em outras palavas
