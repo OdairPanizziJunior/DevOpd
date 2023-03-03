@@ -5,7 +5,7 @@ A paravra é formada pela junção de:
 
 DESENVOLVIMENTO | OPERAÇÕES
 :---------: | :------:
-Dev | Ops
+Dev:bulb:| Ops:mag_right:
 
 Em outras palavras, é basicamente formar um o time de Desenvlvimento e Operações.
 
