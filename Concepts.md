@@ -1,7 +1,11 @@
-concepts
-O que é DevOps?
+# O que é DevOps?
 
-COnjunto de Práticas para automatizar o desenvolvimento e operações
+É o conjunto de Práticas para automatizar o desenvolvimento e operações.
+A paravra é formada pela junção de:
+
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
 
 DEV=desenvolvimento
 OPS=operações
