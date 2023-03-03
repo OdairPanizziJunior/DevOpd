@@ -24,4 +24,6 @@ Isso requer muita mudança organização, de cultura e postura na hora de encara
 ### O que é trabalhar em silos?
 Quando se diz que as equipes estão "trabalhando em silos", isso significa que elas estão desconectadas da organização como um todo. Como resultado, surgem dificuldades, falhas na comunicação e uma infinidade de problemas.
 
-Não existe DevOps sem uma responsabilidade compartilhada.
+### Resposabilidade Compartilhada
+Ela é uma aspecto fundamental do DevOps, não existe DevOps sem uma responsabilidade compartilhada. Os times compartilham as dores e o sucesso.
+Isso significa que todos precisam trabalhar juntos para atingir o resultado final, excluindo-se assim, possíveis desentendimentos entre equipes que noralmente colocam a culpa de um fracasso no outro.
