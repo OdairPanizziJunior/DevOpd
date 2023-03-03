@@ -14,7 +14,7 @@ Não! Embora a natureza de Operações de TI possa mudar, raramente ela vai deix
 Não! DevOps não é simplesmente *"InfraAsACode"*, embora exista muita automação e muitas normas, arquiteturas e padrões que se trazem no DevOps que se automatiza muita coisa, ela não é uma automação.
 
 DevOps não se trata de automação, assim como astronomia não se trata de telescópio.|
-| -------:
+| :-------:
 Christopher Little | 
 
 
