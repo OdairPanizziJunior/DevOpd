@@ -8,6 +8,6 @@ Não! Ele é reforçado pela cultura agil, ele basicamente emerge de princípios
 Não! A ideia do DevOps é trazer o time de Segurança e de Infra para junto de Operações para a consepção do produto. Se deixar para o final gera muito desfaste no processo, por tanto logo no ínicio, trazer junto irá facilitar muito. DevOps não abre mão da Segurança
 * Significa Eliminar Operação de TI
 
-Não! Embora a natureza de Operações de TI possa mudar, raramente
+Não! Embora a natureza de Operações de TI possa mudar, raramente ela vai deixar de existir com a vinda do DevOps. O que vai acontecer é que poderá se tornar diferente a Operação de TI.
 
 [Main Page DevOps](https://github.com/OdairPanizziJunior/DevOps)
