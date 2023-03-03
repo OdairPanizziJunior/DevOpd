@@ -9,7 +9,7 @@ Dev | Ops
 
 Em outras palavras, é basicamente formar um o time de Desenvlvimento e Operações.
 
-##O que é o tradicional?
+## O que é o tradicional?
 
 * O pessoal desenvolve/ "coda" o produto;
 * Passa para o time da infra que monta o ambiente para o produto;
